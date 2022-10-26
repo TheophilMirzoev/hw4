@@ -28,8 +28,8 @@ public class Main {
 
 
 
-        // задача про места в поезде
-        int wagonCapacity = 102;
+        //  задача про места в поезде
+         int wagonCapacity = 102;
        int AmountSittingRoom = 60;
        int amountPassengers = 111;
 
